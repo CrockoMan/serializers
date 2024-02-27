@@ -16,7 +16,7 @@ pip install -r requirements.txt
 1. Применить миграции 
 ./manage.py migrate
 
-1. Создать админка
+1. Создать админа
 ./manage.py createsuperuser
 
 1. Запустить сервер
@@ -43,9 +43,5 @@ Authorization: Token 0c73436bd884a502b6ea710cace9a5e633e0358b
 
 
 #### Полезные ссылки
-
-Шпора 
 https://docs.google.com/document/d/195C3crfvMDfxL7GSxoKYyj1Pfnfx8zyPoEtmMD8JZQE/edit#heading=h.oe06q2t0a6zt
-
-Доки сериализаторы
 https://www.django-rest-framework.org/api-guide/serializers/
